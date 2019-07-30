@@ -1,8 +1,16 @@
-autocomplete-clang@0.11.5
-autocomplete-python@1.14.0
+atom-ide-ui@0.13.0
+autocomplete-clang@0.12.0
+autocomplete-python@1.14.1
 color-picker@2.3.0
+highlight-selected@0.16.0
+ide-python@1.4.2
 minimap@4.29.9
-platformio-ide-terminal@2.8.4
-python-indent@1.1.7
+minimap-bookmarks@0.4.2
+minimap-cursorline@0.2.0
+minimap-find-and-replace@4.5.2
+minimap-highlight-selected@4.6.1
+minimap-selection@4.5.0
+platformio-ide-terminal@2.9.1
+python-indent@1.2.3
 python-tools@0.6.9
 
